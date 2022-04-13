@@ -31,9 +31,9 @@ int randomNumber;
 
         }  while (randomNumber != input);
 
-        System.out.println("You got the Number");
+        System.out.println("You got the number in" + counterOfGuesses + "trys");
 
-        System.out.println("You got it in " + counterOfGuesses + " Trys");
+
     }
 
 
